@@ -49,7 +49,7 @@ Clone the repository and use a browser to open the index.html to view the portfo
 ### Run tests
 
 ### Deployment
-The HTML files can be deployed using the LAMP for more details (https://lakebrains.com/how-to-deploy-single-website-using-lamp-on-ubuntu-server/)
+https://simiran987.github.io/
 
 ## Author
 
