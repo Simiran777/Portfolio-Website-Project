@@ -12,9 +12,11 @@ if (window.innerWidth < 768) {
     if (show === true) {
       menu.style.transform = 'translateX(0%)';
       hamburger.className = 'fa-solid fa-xmark';
+      hamburger.style.color = '#fff';
     } else {
       menu.style.transform = 'translateX(100%)';
       hamburger.className = 'fa-solid fa-bars';
+      hamburger.style.color = '#6070ff';
     }
   };
   hamburger.addEventListener('click', toggleMenu);

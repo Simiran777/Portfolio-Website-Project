@@ -80,7 +80,7 @@
     color: #6070ff;
     cursor: pointer;
     border: none;
-    background: white;
+    background: transparent;
     left: 0;
     right: 0;
     display: block;
@@ -94,6 +94,7 @@
 
   #hamburger {
     color: #6070ff;
+    z-index: 100;
   }
 
   .menu-list {
