@@ -113,6 +113,7 @@
     z-index: 99;
     background-color: #6070ff;
     position: fixed;
+    opacity: 0.9;
   }
 
   .menu {
