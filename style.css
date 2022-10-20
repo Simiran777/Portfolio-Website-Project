@@ -89,10 +89,10 @@
     left: 0;
     right: 0;
     display: block;
-    z-index: 100;
+    z-index: 20;
     top: 58px;
     bottom: 650px;
-    width: 100px;
+    width: 20px;
     height: 20px;
     margin-left: 298px;
     font-size: 18px;
@@ -100,7 +100,6 @@
 
   #hamburger {
     color: #6070ff;
-    z-index: 100;
   }
 
   .menu-list {
@@ -110,7 +109,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    z-index: 99;
+    z-index: 9;
     background-color: #6070ff;
     position: fixed;
     opacity: 0.9;
