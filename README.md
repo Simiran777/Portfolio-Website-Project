@@ -18,19 +18,20 @@
 [Live Demo Link](https://simiran987.github.io/Portfolio-Website-Project/)
 
 ## Getting Started
-**Create a new GitHub repository.**
-**Clone the repository to the local env through commandline/terminal or code editors like Visual Studio Code.**
-**Create a new feature branch.**
-**Create .gitignore file.**
-**Set up GitHub Actions and linters in the local env.**
-**Add the main files and folders to the main branch.**
-** Add the following files in separate commits-**
-1. A .html file for the skeletal makeup of the webpage.
-2. A .css file for styling the webpage.
-3. A .js file for the functionalities
-**Open a pull request.**
-**Submit the project for the code review.**
-**After receiving the review, work on the required changes(if any) and submit again. Keep learning!!!**
+**Create a new GitHub repository.**<br>
+**Clone the repository to the local env through commandline/terminal or code editors like Visual Studio Code.**<br>
+**Create a new feature branch.**<br>
+**Create .gitignore file.**<br>
+**Set up GitHub Actions and linters in the local env.**<br>
+**Add the main files and folders to the main branch.**<br>
+**Add the following files in separate commits-**<br>
+1. A .html file for the skeletal makeup of the webpage.<br>
+2. A .css file for styling the webpage.<br>
+3. A .js file for the functionalities.<br>
+**Open a pull request.**<br>
+**Submit the project for the code review.**<br>
+**After receiving the review, work on the required changes(if any) and submit again.<br>
+**Keep learning!!!**
 
 ### Prerequisites
 Knowledge of HTML, CSS, JS, Linters, Git & GitHub flows and documenting a repo in a professional way
