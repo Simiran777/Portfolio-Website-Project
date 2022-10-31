@@ -2,7 +2,7 @@
 # Portfolio-Mobile
 
 
-> This project is about creating a portfolio page for the mobile version using best practices for HTML and CSS and uses linters, GitHub Flow rules and documentation of work. It is important to start with a new repository and setup the linters, follow a design template for the portfolio or create your own through Figma and code it using HTML and CSS. I built the mobile website using a Figma template provided by Microverse.
+> This project is about creating a portfolio web page for the mobile and desktop version using best practices for HTML and CSS and uses linters, GitHub Flow rules and documentation of work. It is important to start with a new repository and setup the linters, follow a design template for the portfolio or create your own through Figma and code it using HTML and CSS. I've built the website using a Figma template provided by Microverse.
        I used the linters - GitHub Actions, Lighthouse, Webhint and Stylelint to make this project error-free. Also, all the other files except the HTML and CSS files were added to feature branches to make the main branch remain in best possible condition and stable.
    
 ## Built With 💻⌚️💡
@@ -14,26 +14,22 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
-
+https://simiran987.github.io/Portfolio/
 
 ## Getting Started
-<ol>
-   <li>**Create a new GitHub repository.</li>
-   <li>**Clone the repository to the local env through commandline/terminal or code editors like Visual Studio Code.</li>
-   <li>**Create a new feature branch.</li>
-   <li>**Create .gitignore file.</li>
-   <li>**Set up GitHub Actions and linters in the local env.</li>
-   <li>**Add the main files and folders to the main branch.</li>
-   <li>** Add the following files in separate commits-</li>
-     <ol>
-       <li>A .html file for the skeletal makeup of the webpage.</li>
-       <li>A .css file for styling the webpage.</li>
-     </ol>
-   <li>**Open a pull request.</li>
-   <li>**Submit the project for the code review.</li>
-   <li>**After receiving the review, work on the required changes(if any) and submit again. Keep learning!!!</li>
-</ol>
+**Create a new GitHub repository.**
+**Clone the repository to the local env through commandline/terminal or code editors like Visual Studio Code.**
+**Create a new feature branch.**
+**Create .gitignore file.**
+**Set up GitHub Actions and linters in the local env.**
+**Add the main files and folders to the main branch.**
+** Add the following files in separate commits-**
+1. A .html file for the skeletal makeup of the webpage.
+2. A .css file for styling the webpage.
+3. A .js file for the functionalities
+**Open a pull request.**
+**Submit the project for the code review.**
+**After receiving the review, work on the required changes(if any) and submit again. Keep learning!!!**
 
 ### Prerequisites
 Knowledge of HTML, CSS, Linters, Git & GitHub flows and documenting a repo in a professional way
@@ -49,7 +45,6 @@ Clone the repository and use a browser to open the index.html to view the portfo
 ### Run tests
 
 ### Deployment
-https://simiran987.github.io/
 
 ## Author
 
