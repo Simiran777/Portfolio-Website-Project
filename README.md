@@ -25,9 +25,9 @@
 **Set up GitHub Actions and linters in the local env.**<br>
 **Add the main files and folders to the main branch.**<br>
 **Add the following files in separate commits-**<br>
-1. A .html file for the skeletal makeup of the webpage.<br>
-2. A .css file for styling the webpage.<br>
-3. A .js file for the functionalities.<br>
+  1. A .html file for the skeletal makeup of the webpage.<br>
+  2. A .css file for styling the webpage.<br>
+  3. A .js file for the functionalities.<br>
 **Open a pull request.**<br>
 **Submit the project for the code review.**<br>
 **After receiving the review, work on the required changes(if any) and submit again.<br>
