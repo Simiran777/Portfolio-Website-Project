@@ -15,7 +15,7 @@
 ## Live Demo (if available)
 
 
-[Live Demo Link]([https://simiran987.github.io/Portfolio-Website-Project/](https://simiran777.github.io/Portfolio-Website-Project/))
+[Live Demo Link]((https://simiran777.github.io/Portfolio-Website-Project/))
 
 ## Getting Started
 **Create a new GitHub repository.**<br>
