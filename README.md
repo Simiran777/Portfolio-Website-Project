@@ -1,5 +1,4 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-# Portfolio-Website
+# Portfolio Website
 
 
 > This project is about creating a portfolio web page for the mobile and desktop version using best practices for HTML,CSS, JS, linters, GitHub Flow rules and documentation of work. It is important to start with a new repository and setup the linters, follow a design template for the portfolio or create your own through Figma and code it using HTML, CSS and JS. I've built the website using a Figma template provided by Microverse.
