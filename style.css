@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  width: auto;
   padding: 0;
   margin: 0;
   font-family: "Poppins", sans-serif;
@@ -16,9 +17,12 @@
   body {
     background: #e5e5e5;
     overflow-x: hidden;
-    width: 375px;
     margin: 0;
     padding: 0;
+  }
+
+  .description {
+    margin: auto;
   }
 
   .background {
@@ -103,7 +107,7 @@
   }
 
   .menu-list {
-    transform: translateX(100%);
+    transform: translateY(100%);
     transition: all 0.5s linear;
     top: 0;
     left: 0;
