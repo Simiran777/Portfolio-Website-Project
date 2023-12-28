@@ -9,12 +9,13 @@ let show = false;
 if (window.innerWidth < 768) {
   const toggleMenu = () => {
     show = !show;
-    if (show === true) {
-      menu.style.transform = 'translateX(0%)';
+    if (show == true) {
+      menu.style.transform = 'translateY(0%)';
       hamburger.className = 'fa-solid fa-xmark';
       hamburger.style.color = '#fff';
-    } else {
-      menu.style.transform = 'translateX(100%)';
+    }
+    else {
+      menu.style.transform = 'translateY(100%)';
       hamburger.className = 'fa-solid fa-bars';
       hamburger.style.color = '#6070ff';
     }
@@ -22,8 +23,9 @@ if (window.innerWidth < 768) {
   hamburger.addEventListener('click', toggleMenu);
 
   const removeModal = () => {
-    menu.style.transform = 'translateX(100%)';
+    menu.style.transform = 'translateY(100%)';
     hamburger.className = 'fa-solid fa-bars';
+    hamburger.style.color = '#6070ff';
   };
 
   link1.addEventListener('click', removeModal);
