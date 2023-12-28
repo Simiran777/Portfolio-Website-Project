@@ -51,8 +51,7 @@ Clone the repository and use a browser to open the index.html to view the portfo
 
 👤 **Simiran Mohapatra**👩🏻‍💼
 
-- GitHub: [@Simiran987](https://github.com/Simiran987)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/simiran-mohapatra)
+- GitHub: [@Simiran777](https://github.com/Simiran777)
 
 
 ## 🤝 Contributing
